@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta charset="utf-8">
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+        <script src="https://code.angularjs.org/1.4.8/angular.js"></script>
+        <script src="https://code.angularjs.org/1.4.8/angular-route.js"></script>
+        <script src="scripts/script.js"></script>
+        <link href="style.css" rel="stylesheet" />
+    </head>
+    <body ng-app="indexPage" ng-init="isSIgnedIn=false">
+        <!-- The whole body goes in here -->
+        <div class="container" ng-controller="mainController">
+            <img src="/app-data/logo.jpg" class="img-rounded logo" alt="logo" width="400" height="160"/>
+            
+            <div class="page-header">
+                <div class="btn-group btn-group-justified" ng-hide="isSIgnedIn">
+                    <a class="btn btn-primary" href="#signin">Sign In</a>
+                    <a class="btn btn-primary" href="#signup">Sign Up</a>
+                </div>
+                <div class="btn-group btn-group-justified" ng-show="isSIgnedIn">
+                    <a class="btn btn-primary" href="#profile">Profile</a>
+                    <a class="btn btn-primary" href="#inbox">Inbox</a>
+                    <a class="btn btn-primary" href="#sentMsgs">Sent Msgs</a>
+                    <a class="btn btn-primary" href="#logout">Logout</a>                
+                </div>
+            </div>
+            <ng-view></ng-view>
+        </div>
+    </body>
+</html>

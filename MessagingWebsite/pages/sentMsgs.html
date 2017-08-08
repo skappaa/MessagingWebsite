@@ -1,0 +1,40 @@
+﻿<div ng-controller="sentMsgsController">
+    <div id="sentMsgs" ng-show="!isComposeOpen">
+        <!--<input type="button" value="compose" ng-click="composeNewMsg()" />-->
+        <div class="well well-sm" style="border:double" ng-repeat="msg in msgs | filter : {sender_id : pUserID} track by $index">
+            <div class="msgTitle" style="border:double">
+                <p>{{senderName(msg.receiver_id)}} : </p>
+                <p>{{msg.title}} : </p>
+                <p>{{msg.created_at}}</p>
+            </div>
+            <div class="description" style="border:double">
+                <p>{{msg.msg}}</p>
+
+                <div class="btn-group">
+                    <input type="button" class="btn btn-primary" value="Send Another Msg" ng-click="composeReplyMsg(senderEmail(msg.receiver_id), msg.title)" />
+                    <input type="button" class="btn btn-warning" value="Forward" ng-click="composeFrwMsg(msg.title, msg.msg)" />
+                    <input type="button" class="btn btn-danger" value="Delete" ng-click="deleteMessage(msg.title, msg.indexToDelete)" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="compose" ng-show="isComposeOpen" class="jumbotron">
+        <form>
+            <h3>Compose Message</h3><br />
+            <label for="comment">To:</label>
+            <input class="form-control" ng-model="compToTextbox" type="text" placeholder="To" /><br/>
+            <label for="comment">Title:</label>
+            <input class="form-control" ng-model="compTitleTextBox" type="text" placeholder="Title" /><br />
+
+            <div class="form-group">
+                <label for="comment">Msg:</label>
+                <textarea class="form-control" rows="5" id="comment" ng-model="compDesTextBox"></textarea>
+            </div>
+            <br />
+            <div class="btn-group">
+                <input class="btn btn-primary" type="button" value="send" ng-click="composeSendMsg()" class="btn btn-primary" />
+                <input class="btn btn-warning" type="button" value="cancel" ng-click="cancelCompose()" class="btn btn-warning" />
+            </div>
+        </form>
+    </div>
+</div>

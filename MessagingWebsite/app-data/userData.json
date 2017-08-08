@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a000",
+    "firstname": "Gray",
+    "lastname": "Price",
+    "email": "grayprice@sloganaut.com",
+    "phone": "+1 (901) 439-3220",
+    "location": "Layhill, North Carolina",
+    "username": "grayprice",
+    "password": "edebca"
+  },
+  {
+    "id": "a001",
+    "firstname": "Stark",
+    "lastname": "Oliver",
+    "email": "starkoliver@sloganaut.com",
+    "phone": "+1 (913) 402-3528",
+    "location": "Roberts, West Virginia",
+    "username": "starkoliver",
+    "password": "dasfasd"
+  },
+  {
+    "id": "a002",
+    "firstname": "Karin",
+    "lastname": "Kane",
+    "email": "karinkane@sloganaut.com",
+    "phone": "+1 (932) 543-2812",
+    "location": "Ticonderoga, Indiana",
+    "username": "karinkane",
+    "password": "n"
+  },
+  {
+    "id": "a003",
+    "firstname": "Mindy",
+    "lastname": "Reed",
+    "email": "mindyreed@sloganaut.com",
+    "phone": "+1 (923) 524-2799",
+    "location": "Emory, Montana",
+    "username": "mindyreed",
+    "password": "dccbab"
+  },
+  {
+    "id": "a004",
+    "firstname": "Wyatt",
+    "lastname": "Erickson",
+    "email": "wyatterickson@sloganaut.com",
+    "phone": "+1 (913) 570-2005",
+    "location": "Cannondale, Idaho",
+    "username": "wyatterickson",
+    "password": "addeec"
+  },
+  {
+    "id": "a005",
+    "firstname": "Ernestine",
+    "lastname": "Noel",
+    "email": "ernestinenoel@sloganaut.com",
+    "phone": "+1 (864) 581-3020",
+    "location": "Rew, North Dakota",
+    "username": "ernestinenoel",
+    "password": "eceebe"
+  },
+  {
+    "id": "a006",
+    "firstname": "Aimee",
+    "lastname": "Dale",
+    "email": "aimeedale@sloganaut.com",
+    "phone": "+1 (955) 533-3855",
+    "location": "Movico, Alaska",
+    "username": "aimeedale",
+    "password": "ccbbce"
+  }
+]

@@ -1,0 +1,65 @@
+﻿<div ng-controller="inboxController" ng-init="isComposeOpen=false">    
+    <div id="inboxMsgs" ng-show="!isComposeOpen">
+        <input type="button" value="compose" ng-click="composeNewMsg()" class="btn btn-warning btn-block"/>
+        
+
+        <div class="panel-group">
+            <div class="panel panel-success" style="border:double" ng-repeat="msg in msgs | filter : {receiver_id : pUserID} track by $index">
+                <div class="panel-heading" >
+                    <div class="container-fluid" >
+                        <!-- <div ng-click="moreMsg = !moreMsg;">-->
+                        <div class="col-sm-3">
+                        <p ng-click="moreMsg = !moreMsg;" class="form-control" id="snam" type="text">{{senderName(msg.sender_id)}}</p>
+                    </div>
+                        <div class="col-sm-5">
+                            <p ng-click="moreMsg = !moreMsg;" class="form-control" type="text">{{msg.title}}</p>
+                        </div><div class="col-sm-3">
+                            <p ng-click="moreMsg = !moreMsg;" class="form-control" type="text">{{msg.created_at}}</p>
+
+                        </div>
+                        <div class="col-sm-1">
+                            <img class="form-control" src="../app-data/star_gold.png" ng-show="msg.important" ng-click="impMarkEvent( msg.indexToDelete, msg.important);"/>
+
+                            <img class="form-control" src="../app-data/star-null.png" ng-hide="msg.important" ng-click="impMarkEvent( msg.indexToDelete, msg.important);"/>
+                        </div>
+
+                     </div>
+                       
+                    
+                </div>
+                <p></p>
+                <div class="panel-body" ng-show="moreMsg">
+
+                    <div class="form-group">
+                        <label for="comment">Comment:</label>
+                        <textarea disabled class="form-control" rows="5" id="comment">{{msg.msg}}</textarea>
+                    </div>
+                    <div class="btn-group">
+                        <input class="btn btn-primary" type="button" value="Reply" ng-click="composeReplyMsg(senderEmail(msg.sender_id), msg.title)" />
+                        <input class="btn btn-warning" type="button" value="Forward" ng-click="composeFrwMsg(msg.title, msg.msg)" />
+                        <input class="btn btn-danger" type="button" value="Delete" ng-click="deleteMessage(msg.title, msg.indexToDelete)" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="compose" ng-show="isComposeOpen" class="jumbotron">
+        <form>
+            <h3>Compose Message</h3><br />
+            <label for="comment">To:</label>
+            <input class="form-control" ng-model="compToTextbox" type="text" placeholder="To" /><br />
+            <label for="comment">Title:</label>
+            <input class="form-control" ng-model="compTitleTextBox" type="text" placeholder="Title" /><br />
+          
+            <div class="form-group">
+                <label for="comment">Comment:</label>
+                <textarea class="form-control" rows="5" id="comment" ng-model="compDesTextBox"></textarea>
+            </div>
+            <br />
+            <div class="btn-group">
+                <input class="btn btn-primary" type="button" value="send" ng-click="composeSendMsg()" />
+                <input class="btn btn-warning" type="button" value="cancel" ng-click="cancelCompose()" />
+            </div>
+        </form>
+    </div>
+</div>

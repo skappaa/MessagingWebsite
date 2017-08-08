@@ -1,0 +1,66 @@
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\ApplicationInsights.config
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\csc.exe
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\vbc.exe
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\MessagingWebsite.dll.config
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\MessagingWebsite.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\MessagingWebsite.pdb
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\obj\Debug\MessagingWebsite.csprojResolveAssemblyReference.cache
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\obj\Debug\MessagingWebsite.dll
+C:\Users\pvish\Desktop\webProjects\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\obj\Debug\MessagingWebsite.pdb
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\ApplicationInsights.config
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\csc.exe
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\vbc.exe
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\MessagingWebsite.dll.config
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\MessagingWebsite.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\MessagingWebsite.pdb
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.Web.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.Web.xml
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\obj\Debug\MessagingWebsite.dll
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\obj\Debug\MessagingWebsite.pdb
+C:\Users\Sumukhi Kappa\Desktop\New folder\Angular\Assignment1\github\MessagingWebsite\MessagingWebsite\obj\Debug\MessagingWebsite.csprojResolveAssemblyReference.cache
